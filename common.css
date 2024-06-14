@@ -1,0 +1,12 @@
+*{
+  border: 0;
+  margin: 0;
+  background-color: bisque;
+}
+h2{
+  border: 10px;
+  color: brown
+}
+p{
+  width: 50vw;
+}
